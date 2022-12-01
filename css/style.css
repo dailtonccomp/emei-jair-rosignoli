@@ -122,13 +122,8 @@ main p{
     line-height: 2em; /*comando para espaçamento entre linhas*/
 }
 
-main strong{
-    color: var(--cor4);
-    font-weight: bold;
-}
-
 main .galeria {
-    margin: 10px 50px;
+    margin: 10px 30px;
 }
 main .galeria img {
     width: 150px;
