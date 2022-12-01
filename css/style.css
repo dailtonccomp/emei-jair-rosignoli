@@ -131,7 +131,7 @@ main .galeria {
     margin: 10px 50px;
 }
 main .galeria img {
-    width: 230px;
+    width: 150px;
     padding: 5px;
     filter: grayscale(100%);
     transition: 0.5s;
