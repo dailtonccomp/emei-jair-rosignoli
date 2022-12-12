@@ -1,3 +1,9 @@
+for(var i = 1; i<=18; i++) {    
+    
+        document.getElementById("imagem1").innerHTML += "<a href='img/periodo1/"+i+".jpg' data-lightbox='mygallery' data-title='1º período'><img src='img/periodo1/"+i+".jpg' alt='Foto "+i+"'></a>";
+    
+    // document.getElementById("imagem").innerHTML += "</a>";
+}
 
 for(var i = 1; i<=20; i++) {    
     if(i<10) {
