@@ -75,6 +75,24 @@ main h2{
     text-indent: 8px;
 }
 
+main p{
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px; /*comando para tabulação*/
+    font-size: 1em; /* comando para aumentar o tamanho da fonte*/ 
+    line-height: 2em; /*comando para espaçamento entre linhas*/
+}
+
+main ul{
+    margin: 15px 0px;
+    margin-left: 15px;
+    text-align: justify;
+    text-indent: 10px; /*comando para tabulação*/
+    font-size: 1em; /* comando para aumentar o tamanho da fonte*/ 
+    line-height: 2em; /*comando para espaçamento entre linhas*/
+}
+
+
 main .galeria {
     margin: 10px 30px;
 }
